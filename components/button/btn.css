@@ -1,0 +1,10 @@
+button{
+    padding-inline: 35px;
+    padding-block: 10px;
+    border-radius: 8px;
+    background-color: cadetblue;
+    outline: none;
+    color: aliceblue;
+   cursor: pointer;
+
+}
