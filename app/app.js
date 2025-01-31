@@ -1,12 +1,11 @@
 
-import NavComponent from "../../components/navbar/NavComponent.js";
+import NavComponent from "../components/navbar/NavComponent.js";
 import FooterComponent from "../components/footer/footerComponent.js";
 import FormComponent from "../components/form/form.js";
 import InputComponent from "../components/Input/Input.js";
 import SelectComponent from "../components/select/select.js";
 import OptionComponent from "../components/option_select/option.js";
 import ButtonComponent from "../components/button/btn.js";
-import CalculateService from "../services/calculate.js";
 class AppService {
 
     constructor() {
